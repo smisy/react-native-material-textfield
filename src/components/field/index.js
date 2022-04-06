@@ -129,7 +129,7 @@ export default class TextField extends PureComponent {
     input: 8,
     left: 0,
     right: 0,
-    bottom: 8,
+    bottom: 0,
   };
 
   static labelOffset = {
